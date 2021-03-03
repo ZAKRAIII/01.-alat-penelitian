@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "tester\\tester.ino",
+    "programmer": "Arduino as ISP"
+}

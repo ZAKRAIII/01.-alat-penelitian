@@ -1,0 +1,12 @@
+# Writing all output to: H:\My Drive\KAMPUS\SKRIPSI_MCS\ZAKI\01. Skripsi\04. Laporan\01. alat penelitian\combine\proteus\boostV3\boostV3_NEW.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 25
+clean 2
+route 25 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+

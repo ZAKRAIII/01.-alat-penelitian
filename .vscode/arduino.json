@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "port": "COM10",
+    "sketch": "boostConvV3\\boostConvV3.ino"
+}

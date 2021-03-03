@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "port": "COM10",
+    "sketch": "code\\ESC_sinEMF\\ESC_sinEMF.ino",
+    "programmer": "AVR ISP"
+}
